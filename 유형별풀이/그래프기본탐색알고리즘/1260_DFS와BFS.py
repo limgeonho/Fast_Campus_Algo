@@ -1,6 +1,5 @@
 # DFS와 BFS
-from collections import deque
-
+# 양방향 그래프인지 꼭 좀 확인하자...ㅂㄷㅂㄷ
 def dfs(x):
     result_dfs.append(x)
     visited_dfs[x] = True
