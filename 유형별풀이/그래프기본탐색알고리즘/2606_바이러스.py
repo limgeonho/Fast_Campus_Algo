@@ -7,13 +7,13 @@ def bfs(x):
     q = [x]
     while q:
         now = q.pop(0)
-
         visited[now] = True
         for i in computers[now]:
             if not visited[i]:
                 visited[i] = True
                 q.append(i)
                 cnt += 1
+
 n = int(input())
 
 computers = [[] for _ in range(n+1)]
