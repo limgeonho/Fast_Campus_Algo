@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3f5905c-e5f5-4543-bef1-db79fa5e1888" name="Default Changelist" comment="" />
+    <list default="true" id="e3f5905c-e5f5-4543-bef1-db79fa5e1888" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/1012_유기농배추.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/14620_꽃길.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/16675_두개의손.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/16768_mooyomooyo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/16956_늑대와양.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/17406_배열돌리기4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/코테문제풀이/ch03/17413_단어뒤집기2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/코테문제풀이/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/코테문제풀이/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/코테문제풀이/ch03/2484_주사위네개.py" beforeDir="false" afterPath="$PROJECT_DIR$/코테문제풀이/ch03/2484_주사위네개.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +92,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/유형별풀이/백트래킹/1759_암호만들기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -152,7 +162,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="356" />
+    <option name="x" value="355" />
     <option name="y" value="-20" />
     <option name="width" value="1625" />
     <option name="height" value="965" />
@@ -695,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/유형별풀이/백트래킹/1759_암호만들기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
