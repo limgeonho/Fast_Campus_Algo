@@ -1,4 +1,5 @@
 # 단어 뒤집기2
+# flag를 사용하는 경우도 고려하기
 
 import sys
 word = list(sys.stdin.readline().rstrip())

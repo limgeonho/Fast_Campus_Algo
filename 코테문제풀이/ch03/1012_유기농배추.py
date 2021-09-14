@@ -1,9 +1,9 @@
 # 유기농배추
+# floodfill의 대표적인 문제
 
-# 유기농배추
 from collections import deque
 
-dx = [-1, 0 , 1, 0]
+dx = [-1, 0, 1 , 0]
 dy = [0, 1, 0, -1]
 
 def bfs(x, y):
